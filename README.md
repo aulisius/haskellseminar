@@ -6,7 +6,7 @@ The code snippets can be copy pasted to the intrepreter for best effect.
 
 # Slide
 
-The slide is available [here](https://drive.google.com/open?id=0BwTrdiuJ7LJua3lvcExweV8zSFU)
+The slides are available [here](https://docs.google.com/presentation/d/1tERchiaCrS5-LSJGFa-DDTVPN2oZKRRbf9YYyUMfWWk/edit?usp=sharing)
 
 # Additional resources
 
